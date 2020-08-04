@@ -1,5 +1,6 @@
 # Bayesian_adjust
 the code of making Landsat consistent with MODIS NBAR using Bayesian theory 
+
 Step1:
   run produce_sigma.py to get the optimal sigma for MODIS NBAR PSF 
   
